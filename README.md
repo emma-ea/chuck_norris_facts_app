@@ -1,2 +1,2 @@
-# chuck_norris_facts_app
+# Chuck Norris facts
 just another chuck norris meme facts app 😁
